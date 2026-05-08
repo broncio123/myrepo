@@ -1,0 +1,9 @@
+site_name: My Docs
+use_directory_urls: false
+nav:
+  - Spacewalks Documentation: index.md
+  - Tutorials: tutorials.md
+  - Background: explanation.md
+
+plugins:
+  - mkdocstrings
